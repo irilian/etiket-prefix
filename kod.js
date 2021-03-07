@@ -1,8 +1,6 @@
 //Lütfen bunu main dosyanıza atınız.
 client.irilian = {
 prefix: "Lütfen prefixinizi yazınız."
-
-
 };
 
 //Message.js prefix yerinizle değiştirin.
